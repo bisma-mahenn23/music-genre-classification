@@ -51,7 +51,7 @@ Steps I took:
 1️⃣ Train Accuracy vs. Value Accuracy & Train Loss vs. Value Loss
 ![accuracy vs loss](accuracy_vs_loss_cnn.png)
 
-2️⃣ Waveform (for a Jass track):
+2️⃣ Waveform (for a Jazz track):
 ![Waveform](waveform_cnn.png)
 
 3️⃣ Spectrogram (for a Jazz track):  
